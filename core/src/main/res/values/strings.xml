@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="rating" tools:keep="@string/rating">Rating:</string>
+    <string name="release_date" tools:keep="@string/release_date">Release Date:</string>
+    <string name="movie_backdrop" tools:keep="@string/movie_backdrop">Movie Backdrop</string>
+    <string name="movie_poster" tools:keep="@string/movie_poster">Movie Poster</string>
+</resources>

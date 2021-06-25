@@ -1,0 +1,4 @@
+rootProject.name = "Capstone Akhir"
+include ':app'
+include ':core'
+include ':watchlist'
